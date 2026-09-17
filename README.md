@@ -1,23 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=180&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=42&fontColor=FFAB00&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Full-Stack%20Engineering&descAlignY=58&descSize=18&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1A1A1A,100:0B0B0B&height=220&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=48&fontColor=FFAB00&animation=fadeIn&fontAlignY=34&desc=Crafting%20Premium%20Web%20Experiences%20%C2%B7%20Full-Stack%20Engineering&descAlignY=52&descSize=17&descColor=FFFFFF"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=FFAB00&center=true&vCenter=true&width=500&lines=Building+modern+web+experiences;Frontend+%E2%86%92+Full-Stack+Engineer;Learning+the+systems+behind+the+screen;Code+with+purpose.+Ship+with+care." alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_FREELANCE-0B0B0B?style=for-the-badge&labelColor=FFAB00&color=0B0B0B"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BASED_IN-PAKISTAN_🇵🇰-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=0B0B0B&logoColor=FFAB00"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FFAB00&center=true&vCenter=true&width=560&lines=Building+modern%2C+premium+web+experiences;Frontend+%E2%86%92+Full-Stack+Engineer;Design-driven.+Performance-obsessed.;Code+with+purpose.+Ship+with+care." alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">
-  <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFAB00"/>
+  <img src="https://img.shields.io/badge/HIRE_ME-FFAB00?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
-<a href="https://github.com/muhammadezaananjum15">
-  <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=FFAB00"/>
+<a href="https://github.com/muhammadezaananjum15?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_WORK-0B0B0B?style=for-the-badge&logo=github&logoColor=FFAB00&labelColor=0B0B0B"/>
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFAB00"/>
+  <img src="https://img.shields.io/badge/EMAIL_ME-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFAB00&labelColor=0B0B0B"/>
 </a>
 
 <br><br>
@@ -29,6 +33,12 @@
 <img src="https://img.shields.io/badge/C%23-0B0B0B?style=flat-square&logo=csharp&logoColor=FFAB00"/>
 <img src="https://img.shields.io/badge/ASP.NET-0B0B0B?style=flat-square&logo=dotnet&logoColor=FFAB00"/>
 <img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=FFAB00"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadezaananjum15&style=for-the-badge&color=FFAB00&labelColor=0B0B0B&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/muhammadezaananjum15?style=for-the-badge&labelColor=0B0B0B&color=FFAB00&logo=github&logoColor=FFAB00&label=FOLLOWERS"/>
 
 </div>
 
@@ -170,44 +180,6 @@ A focused build to strengthen JavaScript fundamentals and understand exactly how
 </a>
 
 </div>
-
-<br>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## <img src="https://img.icons8.com/fluency-systems-filled/24/FFAB00/terminal.png" width="20" valign="middle"/>&nbsp; Currently Learning
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-**⚛️ React**
-
-Components · Props · State
-Hooks · Context · Routing
-API Integration
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**🔷 TypeScript**
-
-Types · Interfaces
-Generics · Type Narrowing
-React + TypeScript
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**🛠️ Backend**
-
-Node.js · Express.js
-REST APIs · Authentication
-C# · ASP.NET
-
-</td>
-</tr>
-</table>
 
 <br>
 
