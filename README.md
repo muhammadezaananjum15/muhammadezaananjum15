@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1A1A1A,100:0B0B0B&height=220&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=48&fontColor=FFAB00&animation=fadeIn&fontAlignY=34&desc=Crafting%20Premium%20Web%20Experiences%20%C2%B7%20Full-Stack%20Engineering&descAlignY=52&descSize=17&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1A1A1A,100:0B0B0B&height=230&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=48&fontColor=FFAB00&animation=fadeIn&fontAlignY=32&desc=Crafting%20Premium%20Web%20Experiences%20%C2%B7%20Full-Stack%20Engineering&descAlignY=52&descSize=17&descColor=FFFFFF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=FFAB00&center=true&vCenter=true&width=600&lines=Building+modern%2C+premium+web+experiences;Frontend+%E2%86%92+Full-Stack+Engineer;Design-driven.+Performance-obsessed.;Code+with+purpose.+Ship+with+care." alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_FREELANCE-0B0B0B?style=for-the-badge&labelColor=FFAB00&color=0B0B0B"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_FREELANCE-FFAB00?style=for-the-badge&labelColor=0B0B0B"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BASED_IN-PAKISTAN_🇵🇰-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=0B0B0B&logoColor=FFAB00"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FFAB00&center=true&vCenter=true&width=560&lines=Building+modern%2C+premium+web+experiences;Frontend+%E2%86%92+Full-Stack+Engineer;Design-driven.+Performance-obsessed.;Code+with+purpose.+Ship+with+care." alt="Typing SVG" />
+<img src="https://img.shields.io/badge/BASED_IN-PAKISTAN_🇵🇰-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=0B0B0B"/>
 
 <br><br>
 
@@ -26,45 +24,43 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=FFAB00"/>
-<img src="https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=FFAB00"/>
-<img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=FFAB00"/>
-<img src="https://img.shields.io/badge/Node.js-0B0B0B?style=flat-square&logo=nodedotjs&logoColor=FFAB00"/>
-<img src="https://img.shields.io/badge/C%23-0B0B0B?style=flat-square&logo=csharp&logoColor=FFAB00"/>
-<img src="https://img.shields.io/badge/ASP.NET-0B0B0B?style=flat-square&logo=dotnet&logoColor=FFAB00"/>
-<img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=FFAB00"/>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=muhammadezaananjum15&style=for-the-badge&color=FFAB00&labelColor=0B0B0B&label=PROFILE+VIEWS"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/muhammadezaananjum15?style=for-the-badge&labelColor=0B0B0B&color=FFAB00&logo=github&logoColor=FFAB00&label=FOLLOWERS"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+## <img src="https://img.icons8.com/fluency-systems-filled/26/FFAB00/user.png" width="22" valign="middle"/>&nbsp; About Me
 
-## <img src="https://img.icons8.com/fluency-systems-filled/24/FFAB00/user.png" width="20" valign="middle"/>&nbsp; About Me
+<img align="right" width="230" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif"/>
 
-I'm **Muhammad Ezaan Anjum**, a web developer from **Pakistan** building responsive websites and practical web applications with an eye for clean, purposeful design.
+I'm **Muhammad Ezaan Anjum**, a web developer from **Pakistan** who builds responsive websites and practical web applications with an eye for clean, purposeful, premium-feeling design.
 
 I started coding in **August 2024**, learning through structured courses, independent practice, and shipping real projects end to end — not just tutorials.
 
 Right now I'm moving from **frontend development toward full-stack engineering**, while going deeper on the fundamentals behind the tools I already use every day.
 
-<div align="center">
+```javascript
+const ezaan = {
+  role: "Web Developer",
+  focus: "Frontend → Full-Stack",
+  location: "Pakistan 🇵🇰",
+  codingSince: "August 2024",
+  philosophy: "Build with purpose. Understand the fundamentals. Keep improving."
+};
+```
 
-> *"Build with purpose. Understand the fundamentals. Keep improving."*
+<br clear="right"/>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<br>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## <img src="https://img.icons8.com/fluency-systems-filled/24/FFAB00/code.png" width="20" valign="middle"/>&nbsp; Tech Stack
+## <img src="https://img.icons8.com/fluency-systems-filled/26/FFAB00/code.png" width="22" valign="middle"/>&nbsp; Skills & Tech Stack
 
 <table width="100%">
 <tr>
@@ -93,80 +89,100 @@ Right now I'm moving from **frontend development toward full-stack engineering**
 </tr>
 </table>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,mysql,postgresql&theme=dark" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,mysql,postgresql&theme=dark&perline=7" />
 
-## <img src="https://img.icons8.com/fluency-systems-filled/24/FFAB00/rocket.png" width="20" valign="middle"/>&nbsp; Selected Projects
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux&theme=dark&perline=7" />
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## <img src="https://img.icons8.com/fluency-systems-filled/26/FFAB00/rocket.png" width="22" valign="middle"/>&nbsp; Selected Projects
 
 <table width="100%">
 
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 🧭 PathSeeker — *Career Passport*
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🧭+PathSeeker" alt="PathSeeker"/>
+</div>
 
-A career discovery platform that helps users explore career directions, track progress, save resources, and manage their entire career journey in one place.
+**Career Passport**
 
-**Focus:** `Career Discovery` `Assessments` `Dashboards` `Authentication` `Bookmarks` `Notes` `Resources` `Admin`
+A career discovery platform that helps users explore career directions, track progress, save resources, and manage their entire journey in one place.
 
+`Career Discovery` `Assessments` `Dashboards` `Auth` `Bookmarks` `Notes` `Admin`
+
+<div align="center">
 <img src="https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Node.js-0B0B0B?style=flat-square&logo=nodedotjs&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=FFAB00"/>
+</div>
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr><td><br></td></tr>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🏗️+SiteBridge" alt="SiteBridge"/>
+</div>
 
-<tr>
-<td width="100%">
-
-### 🏗️ SiteBridge — *Project Management Platform*
+**Project Management Platform**
 
 A platform concept that replaces notebooks and scattered messages with structured workflows for organizing contractor and labour teams.
 
-**Focus:** `Project Management` `Work Logs` `Reporting` `Role-Based Access` `Structured Data`
+`Project Management` `Work Logs` `Reporting` `Role-Based Access` `Structured Data`
 
+<div align="center">
 <img src="https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Express-0B0B0B?style=flat-square&logo=express&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=FFAB00"/>
+</div>
 
 </td>
 </tr>
 
-<tr><td><br></td></tr>
+<tr><td colspan="2"><br></td></tr>
 
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 🎢 Mecardo — *Amusement Park Experience*
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🎢+Mecardo" alt="Mecardo"/>
+</div>
+
+**Amusement Park Experience**
 
 A full amusement park website concept combining attraction discovery, booking, authentication, receipts, and user feedback in one cohesive flow.
 
-**Focus:** `Attractions` `Booking` `Authentication` `Receipts` `Feedback`
+`Attractions` `Booking` `Authentication` `Receipts` `Feedback`
 
+<div align="center">
 <img src="https://img.shields.io/badge/HTML-0B0B0B?style=flat-square&logo=html5&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/CSS-0B0B0B?style=flat-square&logo=css3&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Bootstrap-0B0B0B?style=flat-square&logo=bootstrap&logoColor=FFAB00"/>
+</div>
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr><td><br></td></tr>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🧮+Calcora" alt="Calcora"/>
+</div>
 
-<tr>
-<td width="100%">
-
-### 🧮 Calcora — *JavaScript Calculator*
+**JavaScript Calculator**
 
 A focused build to strengthen JavaScript fundamentals and understand exactly how application logic talks to the DOM.
 
-**Focus:** `DOM` `Events` `Logic` `Input Handling` `Responsive UI`
+`DOM` `Events` `Logic` `Input Handling` `Responsive UI`
 
+<div align="center">
 <img src="https://img.shields.io/badge/HTML-0B0B0B?style=flat-square&logo=html5&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/CSS-0B0B0B?style=flat-square&logo=css3&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=FFAB00"/>
+</div>
 
 </td>
 </tr>
@@ -183,41 +199,7 @@ A focused build to strengthen JavaScript fundamentals and understand exactly how
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## <img src="https://img.icons8.com/fluency-systems-filled/24/FFAB00/database.png" width="20" valign="middle"/>&nbsp; Development Focus
-
-<div align="center">
-
-```
-  Frontend  →  Application Logic  →  APIs & Backend  →  Databases
-      →  Authentication  →  Testing & Debugging  →  Deployment
-```
-
-</div>
-
-I'm working on getting stronger across the **entire development lifecycle** — not just writing UI, but understanding how it's served, secured, stored, and shipped.
-
-<br>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## <img src="https://img.icons8.com/fluency-systems-filled/24/FFAB00/statistics.png" width="20" valign="middle"/>&nbsp; GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadezaananjum15&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=FFAB00&icon_color=FFAB00&text_color=FFFFFF&border_color=FFAB00&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadezaananjum15&theme=dark&background=0B0B0B&stroke=FFAB00&ring=FFAB00&fire=FFAB00&currStreakLabel=FFAB00&border=FFAB00" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadezaananjum15&layout=compact&theme=dark&bg_color=0B0B0B&title_color=FFAB00&text_color=FFFFFF&border_color=FFAB00" width="48%"/>
-
-</div>
-
-<br>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1A1A1A,100:0B0B0B&height=150&section=footer"/>
 
 <div align="center">
 
@@ -226,9 +208,5 @@ I'm working on getting stronger across the **entire development lifecycle** — 
 <a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">
   <img src="https://img.shields.io/badge/Let's_Connect-FFAB00?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
-
-<br><br>
-
-<img src="https://profile-counter.glitch.me/muhammadezaananjum15/count.svg" />
 
 </div>
