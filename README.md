@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFAB00&height=200&section=header&text=Muhammad%20Ezaan%20Anjum&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Pakistan&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFAB00&height=200&section=header&text=Muhammad%20Ezaan%20Anjum&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Pakistan&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=FFAB00&center=true&vCenter=true&width=600&lines=Building+Interactive+%26+Responsive+Interfaces;Helping+Brands+Improve+Their+Online+Presence;Fixing+AI-Generated+Frontend+Code;Turning+Designs+Into+Pixel-Perfect+Products" alt="Typing SVG" />
 
@@ -15,56 +13,96 @@
 
 <br/>
 
-## About Me
-
-I'm a self-taught frontend developer building interactive, high-performing interfaces for brands that want a stronger online presence. I focus on clean code, responsive design, and interfaces that convert visitors into customers.
-
-- 🔭 Currently building portfolios, landing pages, and e-commerce stores for freelancers and small businesses
-- 🛠️ Also fixing slow, insecure, or poorly-structured AI-generated websites (Bolt, Lovable, v0, Cursor)
-- 🌱 Sharpening my React and Next.js skills, one project at a time
-- 💬 Ask me about frontend architecture, UI/UX, or how to make a site actually convert
-- 📫 Reach me at the links above
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20%20%20%20%20ABOUT%20ME%20%20%20%20%20-0D1117?style=for-the-badge&labelColor=FFAB00&color=0D1117" height="34"/>
+</div>
 
 <br/>
 
-## Tech Stack
+I'm a self-taught developer building interactive, high-performing interfaces for brands that want a stronger online presence. I care about clean code, responsive design, and products that convert visitors into customers.
+
+- 🔭 Currently building portfolios, landing pages, and e-commerce stores for freelancers and small businesses
+- 🛠️ Also fixing slow, insecure, or poorly-structured AI-generated websites (Bolt, Lovable, v0, Cursor)
+- 🌱 Going deeper on Next.js, ASP.NET, and scalable backend architecture
+- 💬 Ask me about frontend architecture, UI/UX, or how to make a site actually convert
+- 📫 Reach me through the links above
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20%20%20%20%20TECH%20STACK%20%20%20%20%20-0D1117?style=for-the-badge&labelColor=FFAB00&color=0D1117" height="34"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma,vscode,postman,vercel,npm,py&theme=dark" alt="Tech Stack" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,ts&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,cs,dotnet&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+
+**Data Formats**
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
 
 </div>
 
 <br/>
 
-## Featured Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20%20%20%20%20FEATURED%20PROJECTS%20%20%20%20%20-0D1117?style=for-the-badge&labelColor=FFAB00&color=0D1117" height="34"/>
+</div>
+
+<br/>
 
 <table align="center">
   <tr>
-    <td width="33%">
-      <a href="https://muhammadezaananjum15.github.io/Mecardo-Amusement-Park/">
-        <img src="https://img.shields.io/badge/🎢_Mecardo-Amusement_Park-0D1117?style=for-the-badge&labelColor=FFAB00&color=161B22" width="100%"/>
-      </a>
+    <td width="33%" valign="top">
+      <h3 align="center">🎢 Mecardo Amusement Park</h3>
       <p align="center">Amusement park landing page built with responsive HTML & CSS</p>
+      <p align="center">
+        <a href="https://muhammadezaananjum15.github.io/Mecardo-Amusement-Park/">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-FFAB00?style=for-the-badge&logoColor=000000"/>
+        </a>
+      </p>
     </td>
-    <td width="33%">
-      <a href="https://muhammadezaananjum15.github.io/-Salt-n-Pepper-Restaurant/">
-        <img src="https://img.shields.io/badge/🍽️_Salt_n_Pepper-Restaurant-0D1117?style=for-the-badge&labelColor=FFAB00&color=161B22" width="100%"/>
-      </a>
+    <td width="33%" valign="top">
+      <h3 align="center">🍽️ Salt n Pepper Restaurant</h3>
       <p align="center">Restaurant site focused on clean layout and easy navigation</p>
+      <p align="center">
+        <a href="https://muhammadezaananjum15.github.io/-Salt-n-Pepper-Restaurant/">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-FFAB00?style=for-the-badge&logoColor=000000"/>
+        </a>
+      </p>
     </td>
-    <td width="33%">
-      <a href="https://muhammadezaananjum15.github.io/portfolio-html-css/">
-        <img src="https://img.shields.io/badge/💼_Personal-Portfolio-0D1117?style=for-the-badge&labelColor=FFAB00&color=161B22" width="100%"/>
-      </a>
+    <td width="33%" valign="top">
+      <h3 align="center">💼 Personal Portfolio</h3>
       <p align="center">My personal portfolio showcasing early frontend work</p>
+      <p align="center">
+        <a href="https://muhammadezaananjum15.github.io/portfolio-html-css/">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-FFAB00?style=for-the-badge&logoColor=000000"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## GitHub Stats
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20%20%20%20%20GITHUB%20STATS%20%20%20%20%20-0D1117?style=for-the-badge&labelColor=FFAB00&color=0D1117" height="34"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -74,14 +112,6 @@ I'm a self-taught frontend developer building interactive, high-performing inter
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadezaananjum15&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFAB00&text_color=C9D1D9" width="48%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=muhammadezaananjum15&color=FFAB00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
