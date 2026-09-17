@@ -1,181 +1,222 @@
 <div align="center">
 
-# MUHAMMAD EZAAN ANJUM
-
-### WEB DEVELOPER
-
-**I build interfaces that look intentional — and applications that actually work.**
-
-Pakistan · Web Development · Frontend → Full-Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Muhammad%20Ezaan%20Anjum&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0B0B0B" width="100%"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">LinkedIn</a>
-  ·   <a href="https://github.com/muhammadezaananjum15">GitHub</a>
-  ·   <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=WEB+DEVELOPER;FRONTEND+%E2%86%92+FULL-STACK;BUILDING+REAL+WORLD+WEB+APPLICATIONS;DESIGNING+INTERFACES+WITH+PURPOSE" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,nodejs,express,mongodb,mysql,git,github&theme=dark" />
+<a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">
+<img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/muhammadezaananjum15">
+<img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadezaananjum15&label=PROFILE%20VIEWS&color=0B0B0B&style=flat-square"/>
 
 </div>
 
 ---
 
-## ABOUT
+# ABOUT ME
 
-I’m **Muhammad Ezaan Anjum**, a web developer from Pakistan focused on building modern, responsive web experiences.
+I'm **Muhammad Ezaan Anjum**, a web developer from Pakistan who enjoys turning ideas into interfaces and interfaces into working applications.
 
-I started coding in **August 2024**. Since then, most of my learning has happened by building — taking an idea, turning it into an interface, connecting the logic behind it, breaking things, fixing them, and understanding why they work.
+I started coding in **August 2024**.
 
-My focus started with frontend development and UI implementation. Now I’m moving deeper into **full-stack development**, working with APIs, databases, authentication, application architecture, and the backend systems behind the interface.
+What started with HTML, CSS and JavaScript gradually turned into a deeper interest in how complete applications work — from the first pixel on the screen to the database behind it.
 
-I care about three things:
+Today I'm focused on growing from **frontend development into full-stack engineering**, while keeping strong fundamentals at the center of everything I build.
 
-**Good UI. Solid fundamentals. Real projects.**
+I learn primarily by building.
 
-> I’m not trying to learn every technology.
-> I’m trying to understand the ones I use well.
+Not just following tutorials.
+
+Not just collecting certificates.
+
+**Building → Breaking → Debugging → Understanding → Improving.**
+
+<br>
+
+> **Build things worth understanding.**
 
 ---
 
-## WHAT I BUILD
+# 🧠 WHAT I'M FOCUSED ON
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="33%" valign="top">
 
-### INTERFACES
+<td align="center" width="25%">
 
-Responsive websites and web interfaces with attention to:
+### UI
 
-* Layout
-* Typography
-* Responsive design
-* Interaction
-* Accessibility
-* Visual hierarchy
+Designing interfaces with strong visual hierarchy, responsive layouts and meaningful interactions.
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### APPLICATIONS
+### LOGIC
 
-Turning ideas into usable products:
-
-* Dashboards
-* Management systems
-* Authentication
-* E-commerce
-* Booking systems
-* SaaS concepts
+Writing JavaScript and application logic that makes interfaces actually work.
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### FULL-STACK
+### SYSTEMS
 
-Going beyond the interface:
-
-* REST APIs
-* Databases
-* CRUD systems
-* Authentication
-* Server-side logic
-* Deployment
+Learning APIs, authentication, databases and the architecture behind applications.
 
 </td>
+
+<td align="center" width="25%">
+
+### PRODUCTS
+
+Turning ideas into practical websites, dashboards and web applications.
+
+</td>
+
 </tr>
 </table>
 
----
-
-# TECH STACK
-
-### FRONTEND
-
-<img src="https://img.shields.io/badge/HTML5-0B0B0B?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0B0B0B?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-0B0B0B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Bootstrap-0B0B0B?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
-
-### BACKEND
-
-<img src="https://img.shields.io/badge/Node.js-0B0B0B?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-0B0B0B?style=flat-square&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C%23-0B0B0B?style=flat-square&logo=csharp&logoColor=239120"/>
-<img src="https://img.shields.io/badge/ASP.NET-0B0B0B?style=flat-square&logo=dotnet&logoColor=512BD4"/>
-
-### DATABASES
-
-<img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/MySQL-0B0B0B?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/MS_SQL-0B0B0B?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
-
-### TOOLS & WORKFLOW
-
-<img src="https://img.shields.io/badge/Git-0B0B0B?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0B0B0B?style=flat-square&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0B0B0B?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Figma-0B0B0B?style=flat-square&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Postman-0B0B0B?style=flat-square&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Vercel-0B0B0B?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/npm-0B0B0B?style=flat-square&logo=npm&logoColor=CB3837"/>
-<img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square&logo=python&logoColor=3776AB"/>
+</div>
 
 ---
 
-# SELECTED WORK
+# 🛠️ TOOLS & TECHNOLOGIES
 
-### 01 · PATHSEEKER
+<div align="center">
 
-**Career Passport**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8"/>
 
-A career-focused platform built around one simple idea: make the journey from **"I don't know what to pursue"** to **"I know what I'm working toward"** more structured.
+<br><br>
 
-PathSeeker brings career exploration, progress tracking, saved resources, quizzes, and job-search planning into one experience.
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,python&theme=dark&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,npm&theme=dark&perline=7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Frontend**
+
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Bootstrap` · `Tailwind CSS`
+
+**Backend**
+
+`Node.js` · `Express` · `C#` · `ASP.NET` · `Python`
+
+**Database**
+
+`MongoDB` · `MySQL` · `SQL Server`
+
+**Tools**
+
+`Git` · `GitHub` · `VS Code` · `Figma` · `Postman` · `Vercel` · `npm`
+
+</div>
+
+---
+
+# 🚀 SELECTED PROJECTS
+
+<div align="center">
+
+### 01 — PATHSEEKER
+
+## Career Passport
+
+</div>
+
+PathSeeker is a career discovery platform designed around the journey between **exploration and execution**.
+
+Instead of treating career planning as a collection of disconnected pages, the idea is to bring career exploration, quizzes, resources, progress tracking and job-search activities into one structured experience.
+
+**Built with**
 
 `React` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB`
 
+<br>
+
 ---
 
-### 02 · SITEBRIDGE
+<div align="center">
 
-**Construction Management Platform**
+### 02 — SITEBRIDGE
 
-SiteBridge explores a better way for contractors and labour teams to manage work without relying on notebooks, scattered messages, and disconnected information.
+## Construction Management Platform
 
-The platform is designed around projects, workers, progress, reports, job discovery, and communication — bringing the workflow into one place.
+</div>
+
+SiteBridge explores how construction teams could replace notebooks, scattered messages and disconnected information with a more structured digital workflow.
+
+The platform concept connects **contractors, labour teams, projects, progress, reports and job discovery** into one system.
+
+**Built with**
 
 `React` `TypeScript` `Tailwind CSS` `Express` `MongoDB`
 
+<br>
+
 ---
 
-### 03 · MECARDO
+<div align="center">
 
-**Amusement Park Experience**
+### 03 — MECARDO
 
-Mecardo started as a frontend project and grew into a complete amusement-park experience concept.
+## Amusement Park Experience
 
-Visitors can explore attractions, discover entertainment, view pricing, interact with booking flows, and move through a structured park experience rather than simply browsing static pages.
+</div>
+
+Mecardo is an amusement park website concept built around the complete visitor journey.
+
+Visitors can explore attractions, discover entertainment, view ticket pricing, interact with booking flows and move through an experience designed to feel more like a real product than a collection of static pages.
+
+**Built with**
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
+<br>
+
 ---
 
-### 04 · CALCORA
+<div align="center">
 
-**JavaScript Calculator**
+### 04 — CALCORA
 
-A small project with a bigger purpose: understanding the fundamentals.
+## JavaScript Calculator
 
-Calcora was built to practice DOM manipulation, event handling, JavaScript logic, input handling, and the relationship between an interface and the code powering it.
+</div>
+
+A small project focused on understanding the fundamentals behind interactive web applications.
+
+Calcora helped strengthen my understanding of **DOM manipulation, events, JavaScript logic, input handling and UI state**.
+
+**Built with**
 
 `HTML` `CSS` `JavaScript`
 
@@ -183,38 +224,42 @@ Calcora was built to practice DOM manipulation, event handling, JavaScript logic
 
 <div align="right">
 
-<a href="https://github.com/muhammadezaananjum15?tab=repositories">View all repositories →</a>
+<a href="https://github.com/muhammadezaananjum15?tab=repositories">
+View all repositories →
+</a>
 
 </div>
 
 ---
 
-# CURRENT DIRECTION
-
-```text
-Frontend
-   ↓
-Modern JavaScript
-   ↓
-React + TypeScript
-   ↓
-APIs & Backend
-   ↓
-Databases
-   ↓
-Full-Stack Applications
-```
-
-I’m currently focused on strengthening the fundamentals behind the stack rather than simply collecting technologies.
-
----
+# ⚡ THE STACK I'M GROWING INTO
 
 <div align="center">
 
-### BUILD. BREAK. UNDERSTAND. IMPROVE.
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb&theme=dark&perline=7"/>
 
-<br>
+<br><br>
 
-<sub>© Muhammad Ezaan Anjum</sub>
-
-</div>
+```text
+               ┌───────────────────┐
+               │    FRONTEND       │
+               │ React / Next.js   │
+               └─────────┬─────────┘
+                         │
+                         ▼
+               ┌───────────────────┐
+               │    APPLICATION    │
+               │ JS / TypeScript   │
+               └─────────┬─────────┘
+                         │
+                         ▼
+               ┌───────────────────┐
+               │      BACKEND      │
+               │ Node / Express    │
+               └─────────┬─────────┘
+                         │
+                         ▼
+               ┌───────────────────┐
+               │     DATABASE      │
+               │ MongoDB / SQL     │
+               └───────────────────┘
