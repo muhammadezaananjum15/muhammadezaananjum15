@@ -78,11 +78,6 @@ It's about being able to take an idea and understand how to build it from the gr
 
 <br><br>
 
-<sub>
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind · Bootstrap ·
-Node.js · Express · C# · ASP.NET · Python · MongoDB · MySQL · PostgreSQL ·
-Git · GitHub · VS Code · Figma · Postman · Vercel · npm
-</sub>
 
 <br><br>
 
