@@ -1,212 +1,84 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1A1A1A,100:0B0B0B&height=230&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=48&fontColor=FFAB00&animation=fadeIn&fontAlignY=32&desc=Crafting%20Premium%20Web%20Experiences%20%C2%B7%20Full-Stack%20Engineering&descAlignY=52&descSize=17&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=200&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=40&fontColor=FFAB00&fontAlignY=45&desc=WEB%20DEVELOPER&descAlignY=65&descSize=14&descColor=8A8A8A&fontFamily=Georgia"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=FFAB00&center=true&vCenter=true&width=600&lines=Building+modern%2C+premium+web+experiences;Frontend+%E2%86%92+Full-Stack+Engineer;Design-driven.+Performance-obsessed.;Code+with+purpose.+Ship+with+care." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=15&duration=3500&pause=1500&color=8A8A8A&center=true&vCenter=true&width=480&height=30&lines=Frontend+%E2%80%94+moving+toward+Full-Stack;Based+in+Pakistan" alt="tagline" />
 
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_FREELANCE-FFAB00?style=for-the-badge&labelColor=0B0B0B"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BASED_IN-PAKISTAN_🇵🇰-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=0B0B0B"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">
-  <img src="https://img.shields.io/badge/HIRE_ME-FFAB00?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-</a>
-<a href="https://github.com/muhammadezaananjum15?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_WORK-0B0B0B?style=for-the-badge&logo=github&logoColor=FFAB00&labelColor=0B0B0B"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/EMAIL_ME-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFAB00&labelColor=0B0B0B"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=muhammadezaananjum15&style=for-the-badge&color=FFAB00&labelColor=0B0B0B&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/muhammadezaananjum15?style=for-the-badge&labelColor=0B0B0B&color=FFAB00&logo=github&logoColor=FFAB00&label=FOLLOWERS"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<sub>[LinkedIn](https://www.linkedin.com/in/muhammad-ezaan-anjum) &nbsp;·&nbsp; [GitHub](https://github.com/muhammadezaananjum15) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL@example.com)</sub>
 
 </div>
 
 <br>
 
-## <img src="https://img.icons8.com/fluency-systems-filled/26/FFAB00/user.png" width="22" valign="middle"/>&nbsp; About Me
+## About
 
-<img align="right" width="230" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif"/>
+I'm Muhammad Ezaan Anjum, a web developer from Pakistan. I build responsive websites and practical web applications, with an emphasis on clean, purposeful design over unnecessary complexity.
 
-I'm **Muhammad Ezaan Anjum**, a web developer from **Pakistan** who builds responsive websites and practical web applications with an eye for clean, purposeful, premium-feeling design.
+I started coding in August 2024 — learning through structured courses, independent practice, and shipping real projects end to end rather than tutorials alone. I'm currently moving from frontend development toward full-stack engineering, deepening the fundamentals behind the tools I already rely on.
 
-I started coding in **August 2024**, learning through structured courses, independent practice, and shipping real projects end to end — not just tutorials.
+<div align="center">
+<sub><i>Build with purpose. Understand the fundamentals. Keep improving.</i></sub>
+</div>
 
-Right now I'm moving from **frontend development toward full-stack engineering**, while going deeper on the fundamentals behind the tools I already use every day.
+<br>
 
-```javascript
-const ezaan = {
-  role: "Web Developer",
-  focus: "Frontend → Full-Stack",
-  location: "Pakistan 🇵🇰",
-  codingSince: "August 2024",
-  philosophy: "Build with purpose. Understand the fundamentals. Keep improving."
-};
-```
-
-<br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## <img src="https://img.icons8.com/fluency-systems-filled/26/FFAB00/code.png" width="22" valign="middle"/>&nbsp; Skills & Tech Stack
+## Stack
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend
-
-| | |
-|---|---|
-| **Languages** | HTML · CSS · JavaScript · TypeScript |
-| **Frameworks** | React · Next.js |
-| **Styling** | Bootstrap · Tailwind CSS |
+**Frontend**
+HTML · CSS · JavaScript · TypeScript
+React · Next.js
+Bootstrap · Tailwind CSS
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Data
-
-| | |
-|---|---|
-| **Runtime** | Node.js · Express.js |
-| **Languages** | C# · ASP.NET |
-| **Databases** | MongoDB · MySQL · MS SQL |
+**Backend & Data**
+Node.js · Express.js
+C# · ASP.NET
+MongoDB · MySQL · MS SQL
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
+## Projects
+
+**PathSeeker** — *Career Passport*
+A career discovery platform for exploring career directions, tracking progress, saving resources, and managing the job-search journey in one place.
+<sub>React · TypeScript · Tailwind CSS · Node.js · MongoDB</sub>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,mysql,postgresql&theme=dark&perline=7" />
+**SiteBridge** — *Project Management Platform*
+A platform concept replacing notebooks and scattered messages with structured workflows for organizing contractor and labour teams.
+<sub>React · TypeScript · Tailwind CSS · Express · MongoDB</sub>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux&theme=dark&perline=7" />
-
-</div>
+**Mecardo** — *Amusement Park Experience*
+A full amusement park website concept covering attraction discovery, booking, authentication, receipts, and user feedback.
+<sub>HTML · CSS · JavaScript · Bootstrap</sub>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+**Calcora** — *JavaScript Calculator*
+A focused build to strengthen JavaScript fundamentals and understand how application logic talks to the DOM.
+<sub>HTML · CSS · JavaScript</sub>
 
-## <img src="https://img.icons8.com/fluency-systems-filled/26/FFAB00/rocket.png" width="22" valign="middle"/>&nbsp; Selected Projects
-
-<table width="100%">
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🧭+PathSeeker" alt="PathSeeker"/>
-</div>
-
-**Career Passport**
-
-A career discovery platform that helps users explore career directions, track progress, save resources, and manage their entire journey in one place.
-
-`Career Discovery` `Assessments` `Dashboards` `Auth` `Bookmarks` `Notes` `Admin`
-
-<div align="center">
-<img src="https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Node.js-0B0B0B?style=flat-square&logo=nodedotjs&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=FFAB00"/>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🏗️+SiteBridge" alt="SiteBridge"/>
-</div>
-
-**Project Management Platform**
-
-A platform concept that replaces notebooks and scattered messages with structured workflows for organizing contractor and labour teams.
-
-`Project Management` `Work Logs` `Reporting` `Role-Based Access` `Structured Data`
-
-<div align="center">
-<img src="https://img.shields.io/badge/React-0B0B0B?style=flat-square&logo=react&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Express-0B0B0B?style=flat-square&logo=express&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=FFAB00"/>
-</div>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🎢+Mecardo" alt="Mecardo"/>
-</div>
-
-**Amusement Park Experience**
-
-A full amusement park website concept combining attraction discovery, booking, authentication, receipts, and user feedback in one cohesive flow.
-
-`Attractions` `Booking` `Authentication` `Receipts` `Feedback`
-
-<div align="center">
-<img src="https://img.shields.io/badge/HTML-0B0B0B?style=flat-square&logo=html5&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/CSS-0B0B0B?style=flat-square&logo=css3&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/Bootstrap-0B0B0B?style=flat-square&logo=bootstrap&logoColor=FFAB00"/>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=100000&color=FFAB00&center=true&vCenter=true&width=300&height=30&lines=🧮+Calcora" alt="Calcora"/>
-</div>
-
-**JavaScript Calculator**
-
-A focused build to strengthen JavaScript fundamentals and understand exactly how application logic talks to the DOM.
-
-`DOM` `Events` `Logic` `Input Handling` `Responsive UI`
-
-<div align="center">
-<img src="https://img.shields.io/badge/HTML-0B0B0B?style=flat-square&logo=html5&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/CSS-0B0B0B?style=flat-square&logo=css3&logoColor=FFAB00"/> <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=FFAB00"/>
-</div>
-
-</td>
-</tr>
-
-</table>
-
-<div align="center">
-
-<a href="https://github.com/muhammadezaananjum15?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-FFAB00?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
+<div align="right">
+<sub><a href="https://github.com/muhammadezaananjum15?tab=repositories">all repositories →</a></sub>
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1A1A1A,100:0B0B0B&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=80&section=footer"/>
 
 <div align="center">
-
-### Let's build something worth shipping.
-
-<a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">
-  <img src="https://img.shields.io/badge/Let's_Connect-FFAB00?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-</a>
-
+<sub>© Muhammad Ezaan Anjum</sub>
 </div>
