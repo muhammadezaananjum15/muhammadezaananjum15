@@ -1,26 +1,26 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0B0B0B"
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=MUHAMMAD%20EZAAN%20ANJUM&fontSize=40&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0B0B0B"
   width="100%"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=WEB+DEVELOPER;FRONTEND+%E2%86%92+FULL-STACK;CRAFTING+INTERFACES+THAT+FEEL+ALIVE;BUILDING+REAL+WORLD+WEB+APPLICATIONS"
+  alt="Typing animation"
 />
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=WEB+DEVELOPER;FRONTEND+%E2%86%92+FULL-STACK;BUILDING+MODERN+WEB+EXPERIENCES;TURNING+IDEAS+INTO+REAL+APPLICATIONS"
-  alt="Typing animation"
-/>
+<p>
+  <strong>Web Developer</strong>
+  &nbsp; · &nbsp;
+  Frontend → Full-Stack
+  &nbsp; · &nbsp;
+  Pakistan
+</p>
 
-<br><br>
-
-<strong>Web Developer</strong>
-&nbsp; · &nbsp;
-Frontend → Full-Stack
-&nbsp; · &nbsp;
-Pakistan
-
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/muhammad-ezaan-anjum">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
@@ -36,33 +36,27 @@ Pakistan
 
 </div>
 
-<br>
-
 ---
 
 ## ABOUT
 
-I'm **Muhammad Ezaan Anjum**, a web developer from Pakistan who enjoys turning ideas into interfaces and interfaces into working applications.
+I'm **Muhammad Ezaan Anjum**, a web developer who enjoys turning ideas into polished digital experiences.
 
-I started coding in **August 2024**. Since then, I've learned by building — creating interfaces, experimenting with different technologies, working with databases, connecting APIs, debugging problems, and gradually understanding what happens beyond the screen.
+I started coding in **August 2024**, beginning with the fundamentals of HTML, CSS and JavaScript. Since then, I've learned mostly by building — creating interfaces, experimenting with new technologies, connecting applications to databases, working with APIs, and solving the problems that appear when a project moves beyond a tutorial.
 
-My journey began with **HTML, CSS and JavaScript** and has grown toward modern frontend development and full-stack engineering.
+Today, I'm moving deeper into **full-stack development**, while continuing to sharpen the frontend skills that started the journey.
 
-I'm currently exploring deeper into **React, TypeScript, Node.js, APIs, databases, C#, ASP.NET and application architecture**.
+I care about more than making something look good.
 
-For me, learning isn't about collecting technologies.
-
-It's about being able to take an idea and understand how to build it from the ground up.
+I want to understand **how it works, why it works, and how to make it better.**
 
 <br>
 
 <div align="center">
 
-### BUILD · BREAK · UNDERSTAND · IMPROVE
+`DESIGN` → `BUILD` → `DEBUG` → `UNDERSTAND` → `IMPROVE`
 
 </div>
-
-<br>
 
 ---
 
@@ -70,25 +64,19 @@ It's about being able to take an idea and understand how to build it from the gr
 
 <div align="center">
 
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,cs,dotnet,mongodb,mysql,postgres,git,github,vscode,figma,postman,vercel,npm,gsap,json,xml&theme=dark&perline=9"
+/>
+
 <br>
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,cs,dotnet,python,mongodb,mysql,postgres,git,github,vscode,figma,postman,vercel,npm&theme=dark&perline=8"
-/>
-
-<br><br>
-
-
-<br><br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=30343B&section=footer"
-  width="92%"
-/>
+<sub>
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind · Bootstrap ·
+Node.js · Express · C# · ASP.NET · MongoDB · MySQL · PostgreSQL ·
+Git · GitHub · VS Code · Figma · Postman · Vercel · npm · GSAP · Motion · XML · JSON
+</sub>
 
 </div>
-
-<br>
 
 ---
 
@@ -96,28 +84,22 @@ It's about being able to take an idea and understand how to build it from the gr
 
 ## LET'S BUILD SOMETHING
 
+**Have an idea? Let's turn it into something real.**
+
 <br>
 
-**Have an idea worth turning into a real product?**
-
-<br><br>
-
 <a href="mailto:YOUR_EMAIL@example.com">
-<img
-  src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-FFFFFF?style=for-the-badge&labelColor=0B0B0B&color=FFFFFF"
-/>
+<img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-FFFFFF?style=for-the-badge&labelColor=0B0B0B&color=FFFFFF"/>
 </a>
 
 <br><br>
 
-<sub>
-Design with intention · Build with purpose · Keep improving
-</sub>
+<sub>Build with purpose. Understand the fundamentals. Keep improving.</sub>
 
-<br><br>
+<br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0B0B0B"
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0B0B0B"
   width="100%"
 />
 
