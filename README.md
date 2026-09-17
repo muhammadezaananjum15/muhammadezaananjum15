@@ -70,11 +70,6 @@ I want to understand **how it works, why it works, and how to make it better.**
 
 <br>
 
-<sub>
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind · Bootstrap ·
-Node.js · Express · C# · ASP.NET · MongoDB · MySQL · PostgreSQL ·
-Git · GitHub · VS Code · Figma · Postman · Vercel · npm · GSAP · Motion · XML · JSON
-</sub>
 
 </div>
 
@@ -88,7 +83,7 @@ Git · GitHub · VS Code · Figma · Postman · Vercel · npm · GSAP · Motion 
 
 <br>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:muhammadezaananjum289@gmail.com">
 <img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-FFFFFF?style=for-the-badge&labelColor=0B0B0B&color=FFFFFF"/>
 </a>
 
